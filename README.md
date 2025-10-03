@@ -33,5 +33,3 @@ Building this dashboard helped me strengthen my skills in:
 - Using slicers to control multiple charts  
 - Optimizing PivotTables for large datasets  
 - Data visualization & storytelling  
-
-## 📂 Repository Structure
